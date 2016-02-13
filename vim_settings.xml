@@ -182,16 +182,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>map-leader &quot; &quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy52b3VjaGVyLlZvdWNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydHkuc2V0U3RhcnREYXRlKHRvTG9jYWxEYXRlVGltZShyZWFkQnNvbkRhdGVUaW1lKHNvdXJjZSwgInN0YXJ0RGF0ZSIpKSk7CiAgICAgICAgICAgIHBhcnR5LnNldEVuZERhdGUodG9Mb2NhbERhdGVUaW1lKHJlYWRCc29uRGF0ZVRpbWUoc291cmNlLCAiZW5kRGF0ZSIpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbS5ndWltYXJhZXMgb24gMTcvMTAvMTYuCiAqLwo=</text>
