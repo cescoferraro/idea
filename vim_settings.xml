@@ -1,0 +1,91 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1505499462478">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/app/controllers/Application.java" timestamp="1505499819455">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="14" column="17" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>map-leader &quot; &quot;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAlTeXN0ZW0ub3V0LnByaW50bG4oInNkZmpoc2QiKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQoJcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhleShBbWF6b25TMyBzM2NsaWVudCl7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNkZmpoc2QiKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNkZmpoc2QiKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNkZmpoc2QiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAlTeXN0ZW0ub3V0LnByaW50bG4oInNkZmpoc2QiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBATm90TnVsbAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbDsK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>map-leader &quot; &quot;</last-search>
+      <last-offset />
+      <last-pattern>map-leader &quot; &quot;</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>map-leader &quot; &quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry>mapleader &quot; &quot;</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
