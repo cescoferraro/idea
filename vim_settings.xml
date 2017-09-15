@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1505501549918">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1505503369232">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -29,11 +29,11 @@
       <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/Dockerfile" timestamp="1505501826966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/docker-compose.yml" timestamp="1505501790303">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/docker-compose.yml" timestamp="1505502956583">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
     </filemarks>
     <jumps>
