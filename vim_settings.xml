@@ -29,16 +29,22 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-canary/src/graph/components/total/index.html" timestamp="1509446325239">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="77" filename="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>map-leader &quot; &quot;</text>
@@ -47,28 +53,28 @@
         <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBSZXN1bHQgaW5kZXgoKSB7CgkJQVdTQ3JlZGVudGlhbHMgY3JlZGVudGlhbHMgPSBuZXcgQmFzaWNBV1NDcmVkZW50aWFscygiQUtJQUo3T1dVUEo3QU5SRUlCVkEiLCAidGg4VUprb3lkeFluQ3RYL2ZxaDhUZFBMVTdFT3RJSXlrUThPS05MYiIpOwoJCUFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KGNyZWRlbnRpYWxzKTsKCQlyZXR1cm4gcmVkaXJlY3QoSGV5KHMzY2xpZW50KSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIDwK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgLSBDRVJUX05BTUU9c2hhcmVkCiAgYm9pbDoKICAgIGltYWdlOiBjZXNjb2ZlcnJhcm8vYm9pbAogICAgcG9ydHM6CiAgICAgLSAiNTAwMDo1MDAwIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gVklSVFVBTF9IT1NUPWJvaWwuY2VzY29mZXJyYXJvLnh5egogICAgICAtIENFUlRfTkFNRT1zaGFyZWQ=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBuZ2lueDoKICAgIGltYWdlOiBjZXNjb2ZlcnJhcm8vbmdpbnggCiAgICBjb250YWluZXJfbmFtZTogbmdpbngKICAgIHBvcnRzOgogICAgICAtICI0NDM6NDQzIgogICAgICAtICI4MDo4MCIKICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3RtcC9kb2NrZXIuc29jazpybw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlBbWF6b25TMyBzM2NsaWVudCA9IG5ldyBBbWF6b25TM0NsaWVudChjcmVkZW50aWFscyk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlBV1NDcmVkZW50aWFscyBjcmVkZW50aWFscyA9IG5ldyBCYXNpY0FXU0NyZWRlbnRpYWxzKCJBS0lBSjdPV1VQSjdBTlJFSUJWQSIsICJ0aDhVSmtveWR4WW5DdFgvZnFoOFRkUExVN0VPdElJeWtROE9LTkxiIik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">R0VUICAgICAgICAva2l0dHkgICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5BcHBsaWNhdGlvbi5pbmRleCgpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R0VUICAgICAgICAva2l0dHkgICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5BcHBsaWNhdGlvbi5pbmRleCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
