@@ -42,12 +42,6 @@
         <mark key="^" line="6" column="66" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/appplicationservices/voucher/RefundVoucherApplicationServiceImpl.java" timestamp="1513114721532">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="62" column="38" />
-        <mark key="." line="62" column="38" />
-        <mark key="^" line="62" column="38" />
-      </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/services/voucher/VoucherServiceImpl.java" timestamp="1513109883664" />
       <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/README.md" timestamp="1505501397842">
         <mark key="'" line="1" column="77" />
