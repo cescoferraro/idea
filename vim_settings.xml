@@ -55,10 +55,10 @@
         <mark key="^" line="6" column="66" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/appplicationservices/voucher/RefundVoucherApplicationServiceImpl.java" timestamp="1513707368966">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/appplicationservices/voucher/RefundVoucherApplicationServiceImpl.java" timestamp="1513708436904">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/services/voucher/VoucherServiceImpl.java" timestamp="1513707274131">
         <mark key="[" line="209" column="43" />
@@ -106,7 +106,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDc3Nzc3KTsK</text>
       </register>
       <register name="-" type="4">
         <text>USED</text>
@@ -118,53 +118,31 @@
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIEJvb2xlYW4gaXNVc2VkKFZvdWNoZXJTdGF0dXMgc3RhdHVzKSB7CiAgICAgICAgcmV0dXJuIHN0YXR1cy5lcXVhbHMoVm91Y2hlclN0YXR1cy5VU0VEKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDc3Nzc3KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDk5OTk5OTkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbig5OTk5OTk5KTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oOTk5OTk5OSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDk5OTk5OTkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbig5OTk5OTk5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc05vcm1hbFZvdWNoZXIodXNlckNsdWIsIHZvdWNoZXIpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDExMTExMTExMSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDExMTExMTExMSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDExMTExMTExMSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDExMTExMTExMSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDExMTExMTExMSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDExMTExMTExMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc1RyYW5zZmVyZWRWb3VjaGVyKHVzZXJDbHViLCB2b3VjaGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMjIyMjIyMjIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigyMjIyMjIyMik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDIyMjIyMjIyKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMjIyMjIyMjIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigyMjIyMjIyMik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDIyMjIyMjIyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc05vcm1hbFZvdWNoZXIodXNlckNsdWIsIHZvdWNoZXIpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>else if (VoucherServiceImpl.isTransfered(voucher.getType())) {
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-            System.out.println(333333);
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc1RyYW5zZmVyZWRWb3VjaGVyKHVzZXJDbHViLCB2b3VjaGVyKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc05vcm1hbFZvdWNoZXIodXNlckNsdWIsIHZvdWNoZXIpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc1RyYW5zZmVyZWRWb3VjaGVyKHVzZXJDbHViLCB2b3VjaGVyKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTExMTExMTExKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc05vcm1hbFZvdWNoZXIodXNlckNsdWIsIHZvdWNoZXIpOwo=</text>
       </register>
     </registers>
     <search>
