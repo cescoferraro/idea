@@ -8,6 +8,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/appplicationservices/club/ClubApplicationServiceImpl.java" timestamp="1515438571393">
+        <mark key="[" line="109" column="3" />
+        <mark key="]" line="109" column="2" />
+        <mark key="." line="109" column="2" />
+        <mark key="^" line="109" column="2" />
+      </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/repositories/voucher/VoucherRepository.java" timestamp="1513768222425">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="22" />
@@ -44,7 +50,6 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/appplicationservices/dashboard/DashboardApplicationService.java" timestamp="1513713705786" />
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/conversion/converter/bson/voucher/BsonToGetVouchersOfPartyResponseConverter.java" timestamp="1513110324810">
         <mark key="[" line="50" column="66" />
         <mark key="]" line="50" column="66" />
@@ -57,7 +62,6 @@
         <mark key="." line="34" column="19" />
         <mark key="^" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/conf/routes" timestamp="1513713682124" />
       <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/conf/routes" timestamp="1505501450760">
         <mark key="[" line="6" column="67" />
         <mark key="]" line="6" column="67" />
@@ -118,10 +122,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlU2VydmljZS5maW5kQnlJZCh2b3VjaGVyLmdldEludm9pY2VJZCgpKTsKICAgICAgICBpZiAoaXNFbXB0eShpbnZvaWNlKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihFUlJPUl9JTlZPSUNFX05PVF9GT1VORCk7CiAgICAgICAgfQogICAgICAgIHBhZ2FyTWVUcmFuc2FjdGlvbkludGVncmF0aW9uU2VydmljZS5yZWZ1bmQodm91Y2hlciwgaW52b2ljZSk7CiAgICAgICAgdm91Y2hlclNlcnZpY2UucmVmdW5kVm91Y2hlcih2b3VjaGVyLmdldElkKCksIHVzZXJDbHViLmdldElkKCkpOwogICAgICAgIHBhcnR5UHJvZHVjdFNlcnZpY2UuZGVjcmVtZW50UHVyY2hhc2VkUXVhbnRpdHkodm91Y2hlci5nZXRQYXJ0eVByb2R1Y3RJZCgpKTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>map-leader &quot; &quot;</text>
