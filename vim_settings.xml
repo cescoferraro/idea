@@ -9,12 +9,12 @@
         <mark key="." line="109" column="2" />
         <mark key="^" line="109" column="2" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/blacklist/BlackList.Repositoryjava" timestamp="1515440129594">
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/blacklist/BlackList.Repositoryjava" timestamp="1515440145348">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/appplicationservices/dashboard/DashboardApplicationServiceImpl.java" timestamp="1513714423430">
         <mark key="'" line="34" column="0" />
@@ -36,6 +36,12 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/models/blacklist/BlackList.java" timestamp="1515441581960">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/models/voucher/Voucher.java" timestamp="1513108900982">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="19" />
@@ -56,6 +62,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/blacklist/BlackListRepository.java" timestamp="1515441352281">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/repositories/voucher/VoucherRepository.java" timestamp="1513768222425">
         <mark key="[" line="16" column="22" />
@@ -79,6 +91,24 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/models/voucher/Voucher.java" timestamp="1515440340595">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/models/blacklist/BlackListType.java" timestamp="1515441050925">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/blacklist/BlackListRepositoryImpl.java" timestamp="1515441545229">
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="63" />
+        <mark key="^" line="40" column="63" />
+        <mark key="." line="40" column="63" />
       </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/conversion/converter/bson/voucher/BsonToGetVouchersOfPartyResponseConverter.java" timestamp="1513110324810">
         <mark key="[" line="50" column="66" />
@@ -104,10 +134,10 @@
         <mark key="^" line="205" column="86" />
         <mark key="." line="205" column="86" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/voucher/VoucherRepository.java" timestamp="1515440123891">
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/voucher/VoucherRepository.java" timestamp="1515441209075">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="32" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="30" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/cescoferraro/play-gradle/Dockerfile" timestamp="1505501826966">
@@ -134,7 +164,7 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1515439781784">
+      <file name="/fragment.java" timestamp="1515441274058">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -147,46 +177,48 @@
       <jump line="14" column="0" filename="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/voucher/VoucherRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/voucher/VoucherRepository.java" />
       <jump line="4" column="4" filename="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/blacklist/BlackList.Repositoryjava" />
+      <jump line="194" column="0" filename="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/models/voucher/Voucher.java" />
+      <jump line="122" column="39" filename="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/repositories/blacklist/BlackListRepositoryImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFZvdWNoZXIgZmluZEJ5SWQoU3RyaW5nIGlkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>map-leader &quot; &quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFZvdWNoZXIgZmluZEJ5SWQoU3RyaW5nIGlkKTsK</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy52b3VjaGVyLlZvdWNoZXI7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIFZvdWNoZXIgaW5zZXJ0KFZvdWNoZXIgaW52b2ljZSk7CgogICAgQm9vbGVhbiB1cGRhdGVTdGF0dXMoU3RyaW5nIGlkLCBWb3VjaGVyU3RhdHVzIHN0YXR1cywgTG9jYWxEYXRlVGltZSB1cGRhdGVEYXRlKTsKCiAgICBMaXN0PFZvdWNoZXJHcm91cFJlc3BvbnNlPiBmaW5kQWN0aXZlVXNlclZvdWNoZXJzKFN0cmluZyBjdXN0b21lcklkLCBMb2NhbERhdGVUaW1lIG5vdyk7CgogICAgQm9vbGVhbiB1c2VWb3VjaGVyKFN0cmluZyB2b3VjaGVySWQsIFVzZXJDbHViIHVzZXJDbHViLCBMb2NhbERhdGVUaW1lIHVzZURhdGUpOwoKICAgIExpc3Q8TGF0ZXN0UGFydHlQdXJjaGFzZVJlc3BvbnNlPiBmaW5kTGF0ZXN0UGFydGllc1B1cmNoYXNlcyhTdHJpbmcgY3VzdG9tZXJJZCwgTG9jYWxEYXRlVGltZSBub3cpOwoKICAgIExpc3Q8Vm91Y2hlcj4gZmluZFZvdWNoZXJzUmVhZEJ5VXNlckNsdWIoU3RyaW5nIHVzZXJDbHViSWQpOwoKICAgIExpc3Q8Vm91Y2hlcj4gZmluZFZvdWNoZXJzT2ZQYXJ0eShTdHJpbmcgcGFydHlJZCk7CgogICAgTGlzdDxHZXRWb3VjaGVyc09mUGFydHlSZXNwb25zZT4gYmFja29mZmljZVZvdWNoZXJzT2ZQYXJ0eShTdHJpbmcgcGFydHlJZCwgQm9vbGVhbiBpc09ubmlVc2VyLCBCb29sZWFuIGlzT25uaUFkbWluKTsKCiAgICBMaXN0PFZvdWNoZXI+IGZpbmRWb3VjaGVyc09mUGFydHlBdmFpbGFibGVBbmRVc2VkKFN0cmluZyBwYXJ0eUlkKTsKCiAgICBMb25nIGNvdW50UHVyY2hhc2VkVm91Y2hlcnNPZkN1c3RvbWVySW5QYXJ0eShTdHJpbmcgY3VzdG9tZXJJZCwgU3RyaW5nIHBhcnR5SWQpOwoKICAgIExpc3Q8Vm91Y2hlcj4gZmluZEF2YWlsYWJsZUFuZFVzZWRWb3VjaGVyc09mQ3VzdG9tZXIoU3RyaW5nIGN1c3RvbWVySWQpOwoKICAgIEJvb2xlYW4gcmVmdW5kVm91Y2hlcihTdHJpbmcgaWQsIFN0cmluZyB1c2VyQ2x1YklkLCBMb2NhbERhdGVUaW1lIHVwZGF0ZURhdGUpOwoKICAgIExvbmcgY291bnRQdXJjaGFzZWRWb3VjaGVyc09mUHJvbW90aW9uT2ZDdXN0b21lcihTdHJpbmcgY3VzdG9tZXJJZCwgU3RyaW5nIHByb21vdGlvbklkKTsKCiAgICBMaXN0PFZvdWNoZXI+IHB1cmNoYXNlZFZvdWNoZXJzT2ZQcm9tb3Rpb25PZkN1c3RvbWVyKFN0cmluZyBjdXN0b21lcklkLCBTdHJpbmcgcHJvbW90aW9uSWQpOwoKICAgIExpc3Q8R2V0Vm91Y2hlcnNPZlBhcnR5UmVzcG9uc2U+IGZpbmRWb3VjaGVyc09mUGFydHlBbmRSZXNwb25zaWJsZShTdHJpbmcgcGFydHlJZCwgU3RyaW5nIHJlc3BvbnNpYmxlVXNlckNsdWJJZCk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbS5ndWltYXJhZXMgb24gMTcvMTAvMTYuCiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT3BlcmF0aW9uVHlwZS5PTk5JX0FQUC5lcXVhbHMoY2x1Yi5nZXRPcGVyYXRpb25UeXBlKCkpKSB7CiAgICAgICAgICAgIGlmIChpc0VtcHR5KGJ1eVBhcnR5UHJvZHVjdHNSZXF1ZXN0LmdldEl0ZW5zKCkpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihFUlJPUl9JVEVNU19FTVBUWSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQogICAgICAgIGlmIChPcGVyYXRpb25UeXBlLlBSRVBBSUQuZXF1YWxzKGNsdWIuZ2V0T3BlcmF0aW9uVHlwZSgpKSkgewogICAgICAgICAgICBEb3VibGUgY3JlZGl0cyA9IGJ1eVBhcnR5UHJvZHVjdHNSZXF1ZXN0LmdldENyZWRpdHMoKTsKICAgICAgICAgICAgaWYgKGlzTm90RW1wdHkoY3JlZGl0cykgJiYgY3JlZGl0cyA+IDBEICYmIGNyZWRpdHMgPCAxRCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oRVJST1JfTUlOSU1VTV9DUkVESVRfMSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKGlzTm90RW1wdHkoYnV5UGFydHlQcm9kdWN0c1JlcXVlc3QuZ2V0SXRlbnMoKSkpIHsKICAgICAgICAgICAgaWYgKGlzRW1wdHkocGFydHkpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihFUlJPUl9QQVJUWV9OT1RfRk9VTkQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICghUGFydHlTdGF0dXMuQUNUSVZFLmVxdWFscyhwYXJ0eS5nZXRTdGF0dXMoKSkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBTZXJ2aWNlRXhjZXB0aW9uKEVSUk9SX1BBUlRZX1NUQVRVU19OT1RfQUNUSVZFKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlU2VydmljZS5maW5kQnlJZCh2b3VjaGVyLmdldEludm9pY2VJZCgpKTsKICAgICAgICBpZiAoaXNFbXB0eShpbnZvaWNlKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihFUlJPUl9JTlZPSUNFX05PVF9GT1VORCk7CiAgICAgICAgfQogICAgICAgIHBhZ2FyTWVUcmFuc2FjdGlvbkludGVncmF0aW9uU2VydmljZS5yZWZ1bmQodm91Y2hlciwgaW52b2ljZSk7CiAgICAgICAgdm91Y2hlclNlcnZpY2UucmVmdW5kVm91Y2hlcih2b3VjaGVyLmdldElkKCksIHVzZXJDbHViLmdldElkKCkpOwogICAgICAgIHBhcnR5UHJvZHVjdFNlcnZpY2UuZGVjcmVtZW50UHVyY2hhc2VkUXVhbnRpdHkodm91Y2hlci5nZXRQYXJ0eVByb2R1Y3RJZCgpKTs=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcSgidHlwZSIsIG5ldyBCc29uU3RyaW5nKFZvdWNoZXJUeXBlLlRSQU5TRkVSRUQubmFtZSgpKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3QoInN0YXR1cyIsIG5ldyBCc29uU3RyaW5nKFZvdWNoZXJTdGF0dXMuQ0FOQ0VMRUQubmFtZSgpKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyB2YWxpZGF0b3JzLlZhbGlkYXRvcnMuaXNOb3RFbXB0eTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBkYXRlLkRhdGVGYWN0b3J5Lm5vd1VUQ0xvY2FsRGF0ZVRpbWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBkYXRlLkRhdGVDb252ZXJ0ZXIuZnJvbUxvY2FsRGF0ZVRpbWU7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtU3VwcG9ydDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
     </registers>
     <search>
