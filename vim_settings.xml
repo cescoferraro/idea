@@ -36,11 +36,11 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/models/blacklist/BlackList.java" timestamp="1515444184783">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/go/src/github.com/cescoferraro/onni-backend/app/models/blacklist/BlackList.java" timestamp="1515444227357">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/go/src/bitbucket.org/onnidev/onni-backend/app/models/voucher/Voucher.java" timestamp="1513108900982">
         <mark key="[" line="34" column="19" />
@@ -58,7 +58,7 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513703213739">
+      <file name="/Dummy.txt" timestamp="1515444404687">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -182,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>map-leader &quot; &quot;</text>
